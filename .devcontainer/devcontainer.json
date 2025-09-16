@@ -1,0 +1,4 @@
+{
+  "image": "mcr.microsoft.com/windows/nanoserver:ltsc2025",
+  "features": {}
+}
